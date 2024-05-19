@@ -14,7 +14,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-A simple blog card using flex to center the card and flex again within the card to align the avatar and author-name. Due to setting a max-width on the card, there was no need for flexbox to display the card contents.
+A simple blog card using flex to center the card and flex again within the card to align the avatar and author-name.
 
 ### The challenge
 
@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[🎉Live Preview](https://jo-with-vision.github.io/FEM-blog-preview-card/)
 
 
 ### Built with
