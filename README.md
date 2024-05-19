@@ -24,13 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/project-screenshot.jpeg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-[🎉Live Preview](https://jo-with-vision.github.io/FEM-blog-preview-card/)
+- 🎉[Solution on FEM](https://your-solution-url.com)
+
+- [🎉Live Preview](https://jo-with-vision.github.io/FEM-blog-preview-card/)
 
 
 ### Built with
@@ -43,6 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Jo_WithVIsion](https://www.frontendmentor.io/profile/Jo-with-vision)
 
 
