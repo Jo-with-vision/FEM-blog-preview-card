@@ -53,7 +53,7 @@ body {
   max-width: 384px;
   border-radius: var(--spacer-medium);
   border: 1px solid var(--col-black);
-  box-shadow: 1rem 1rem var(--col-black);
+  box-shadow: .5rem .5rem var(--col-black);
 }
 
 .card-category {
