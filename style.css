@@ -111,7 +111,7 @@ body {
 
 /* Desktop media queries */
 
- @media (min-width: 800px) {
+ @media (min-width: 700px) {
   .card-publish-date {
     font-size: var(--fs-body-small);
   }
