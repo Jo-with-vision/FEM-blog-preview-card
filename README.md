@@ -29,8 +29,6 @@ Users should be able to:
 
 ### Links
 
-- 🎉[Solution on FEM](https://your-solution-url.com)
-
 - [🎉Live Preview](https://jo-with-vision.github.io/FEM-blog-preview-card/)
 
 
